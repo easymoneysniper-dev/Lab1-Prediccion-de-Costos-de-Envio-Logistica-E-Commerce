@@ -1,5 +1,6 @@
-Laboratorio: Predicción de Costos de Envío (Logística E-Commerce)
-Integrantes: Alexis Arévalo
+Laboratorio: Predicción de Costos de Envío (Logística E-Commerce)  
+Integrantes:  
+Alexis Arévalo
 Correo: alexis.arevalo2301@alumnos.ubiobio.cl
 
 Gabriel Ascencio
